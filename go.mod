@@ -1,4 +1,4 @@
-module github.com/gjbae1212/go-async-task
+module github.com/cn1095/go-async-task
 
 go 1.14
 
